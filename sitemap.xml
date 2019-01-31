@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://example.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://example.com/tags/</loc>
     <priority>0</priority>
   </url>
   
