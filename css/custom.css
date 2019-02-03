@@ -5,7 +5,7 @@
   margin-top: -1.6rem;
 }
 @media only screen and (max-device-width:768px){
-  .avatar img{width:10rem}
+  .avatar img{width:100%}
 }
 
 .navigation {
@@ -39,9 +39,25 @@
     padding-right: 0rem;
 }
 
-a:focus, a:hover {
-    text-decoration: none;
-        text-decoration-line: none;
-        text-decoration-style: solid;
-        text-decoration-color: currentcolor;
+a:before,a:after{
+  position:absolute;
+  bottom:2px;
+  content:"";
+  display:inline-block;
+  width:0;
+  height:2px;
+  background:#666666;
+  transition:.3s
+}
+a:before{
+  left:50%
+}
+a:after{
+  right:50%
+}
+a:focus,a:hover{
+  text-decoration:none
+}
+a:hover:before,a:hover:after{
+  width:50%
 }
