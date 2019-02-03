@@ -10,12 +10,22 @@
 
 .navigation {
   height: 4rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .navigation a{
   text-transform: none;
   float: left;
   line-height: 4.0rem;
+}
+
+.btn-mobile {
+  display: block;
+  font-size: 2rem;
+  color: black;
+  cursor: pointer;
+  margin-top: 0.5rem;
 }
 
 .navigation img{
