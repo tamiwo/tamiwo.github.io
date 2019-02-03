@@ -1,0 +1,47 @@
+.avatar img{
+  width:100%;
+  height:auto;
+  border-radius:0%;
+  margin-top: -1.6rem;
+}
+@media only screen and (max-device-width:768px){
+  .avatar img{width:10rem}
+}
+
+.navigation {
+  height: 4rem;
+}
+
+.navigation a{
+  text-transform: none;
+  float: left;
+  line-height: 4.0rem;
+}
+
+.navigation img{
+  float: left;
+  height: 4.0rem;
+  width:auto;
+  margin: 0rem;
+  margin-right: 1rem;
+}
+
+.centered .about ul li a {
+    text-transform: none;
+}
+
+.centered {
+    align-items: start;
+}
+
+.container {
+    padding-left: 0rem;
+    padding-right: 0rem;
+}
+
+a:focus, a:hover {
+    text-decoration: none;
+        text-decoration-line: none;
+        text-decoration-style: solid;
+        text-decoration-color: currentcolor;
+}
