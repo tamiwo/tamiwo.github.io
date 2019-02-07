@@ -42,6 +42,7 @@
 
 .centered {
     align-items: start;
+    height: auto;
 }
 
 .container {
@@ -70,4 +71,8 @@ a:focus,a:hover{
 }
 a:hover:before,a:hover:after{
   width:50%
+}
+
+.centered h3{
+  text-align: center;
 }
