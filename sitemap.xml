@@ -3,12 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tamiwo.github.io/apps/lifecounterformtg/</loc>
+    <lastmod>2019-02-06T23:00:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tamiwo.github.io/apps/lifecounterformtg/</loc>
+    <lastmod>2019-02-05T00:11:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tamiwo.github.io/apps/meteor/</loc>
+    <lastmod>2019-02-05T00:11:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tamiwo.github.io/apps/tenvader/</loc>
+    <lastmod>2019-02-05T00:11:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tamiwo.github.io/blog/test1/</loc>
+    <lastmod>2019-02-05T00:10:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tamiwo.github.io/apps/</loc>
+    <lastmod>2019-02-05T00:11:16+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tamiwo.github.io/blog/</loc>
+    <lastmod>2019-02-05T00:10:30+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tamiwo.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://tamiwo.github.io/news/</loc>
+    <lastmod>2019-02-06T23:00:47+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tamiwo.github.io/</loc>
+    <lastmod>2019-02-06T23:00:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
